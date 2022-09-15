@@ -1,2 +1,2 @@
 # toggle
- the simplest way to mke a hwamburger menu
+ the simplest way to make a hamburger menu
